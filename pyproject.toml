@@ -11,5 +11,11 @@ classifiers = [
     "Programming Language :: Python :: Implementation :: PyPy",
 ]
 dynamic = ["version"]
+dependencies = [
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.7",
+    "pipreqs>=0.4.13",
+    "ultralytics>=8.3.221",
+]
 [tool.maturin]
 features = ["pyo3/extension-module"]
