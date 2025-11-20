@@ -1,6 +1,6 @@
 # NOTES
 
 
-## 27/10/2025
+## Fine-tuning YOLO
 
--
+| MODEL | NAME |  

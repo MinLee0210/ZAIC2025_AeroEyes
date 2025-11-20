@@ -30,7 +30,9 @@ Our approach combines:
 - **Spatio-Temporal Tracking:** motion consistency and frame linking using optical flow or transformer-based tracking.
 - **Object Refinement:** bounding box refinement via lightweight detection head (YOLO-style or DETR-style).
 
+
 Focus areas:
+
 - Robustness to environmental noise (lighting, motion blur)
 - Jetson-optimized inference (TensorRT / ONNX Runtime)
 - Real-time frame processing pipeline
